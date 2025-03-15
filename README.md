@@ -60,7 +60,8 @@ pyinstaller --noconsole --onefile --windowed --icon=icon.ico main.py
 ## 🐱**资源来源**
 
 - 图片资源来源：https://cupnooble.itch.io/sprout-lands-asset-pack
-
+  
+---
 ## 📌**未来计划**
 
 🔹 增加更多 AI 互动功能，支持不同 AI 模型（如 GPT）。
