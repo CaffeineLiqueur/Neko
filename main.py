@@ -11,9 +11,9 @@ from sparkai.core.messages import ChatMessage
 
 
 # 配置大模型
-SPARKAI_APP_ID = '7fa786d8'
-SPARKAI_API_KEY = '56181e8d42ae8d0f0c94d91ea6f5086b'
-SPARKAI_API_SECRET = 'MjFiZDU2YzFiMGMzOWUxNmQ0MzAxOWRj'
+SPARKAI_APP_ID = ' '
+SPARKAI_API_KEY = ' '
+SPARKAI_API_SECRET = ' '
 SPARKAI_URL = 'wss://spark-api.xf-yun.com/v1.1/chat'
 SPARKAI_DOMAIN = 'lite'
 
