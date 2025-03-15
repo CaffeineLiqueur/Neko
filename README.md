@@ -22,7 +22,7 @@
 
 ## 🔧 **安装方法**
 ### 1 **环境依赖**
-本项目基于 **Python 3.8+**，并使用 `PyQt5` 进行界面开发
+本项目基于 **Python 3.8+**，并使用 `PyQt5` 进行界面开发。
 
 ### 2 **运行桌宠**
 运行以下命令启动桌宠：
@@ -56,6 +56,7 @@ pyinstaller --noconsole --onefile --windowed --icon=icon.ico main.py
 本项目支持 **讯飞星火大模型 (Spark AI)**，请先获取 API Key：
 - 访问 **[讯飞开放平台](https://console.xfyun.cn/)** 获取 **APP_ID、API_KEY 和 API_SECRET**。
 - 在 `config.py` 文件中配置你的 API：
+  
   ```python
   SPARKAI_APP_ID = '你的APP_ID'
   SPARKAI_API_SECRET = '你的API_SECRET'
