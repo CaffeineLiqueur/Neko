@@ -72,7 +72,7 @@ pyinstaller --noconsole --onefile --windowed --icon=icon.ico main.py
 ---
 ## 📌 **未来计划**
 
-- 🔹 增加 MCP。
+- 🔹 Neko 帮助你直接写并保存文件。
 - 🔹 优化宠物动画，添加 睡觉、跳跃 等更多动态行为。
 - 🔹 支持多宠物，让多个桌宠一起互动。
 
